@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/guyedel/unified-linter-example
+    rev: main
+    hooks:
+      - id: unified-linter-example
